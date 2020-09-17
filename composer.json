@@ -1,0 +1,22 @@
+{
+  "name": "pulsr/pixelizer",
+  "description": "description",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pavel K",
+      "email": "pavel@pulsr.cc"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "require": {
+    "phpunit/phpunit": "9.3.7",
+    "ext-gd": "*",
+    "ext-exif": "*"
+  }
+}
