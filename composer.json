@@ -1,6 +1,6 @@
 {
-  "name": "pulsr/pixelizer",
-  "description": "description",
+  "name": "iaretedd/pixelizer",
+  "description": "Pixelizer is a PHP library that allows you to convert any data into a PNG picture and decode it back into the original data.",
   "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
